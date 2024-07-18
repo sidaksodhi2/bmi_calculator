@@ -9,6 +9,11 @@ A BMI(Body Mass Index) calculator is a simple and intutive apllication built usi
 <img src="https://github.com/user-attachments/assets/24fd3fe6-6de2-4b36-bd52-427a5e533c75" height =450 width 200>
 <img src="https://github.com/user-attachments/assets/fbed2165-0882-4a99-9641-1fd2afbc24ec" height=450 width=200>
 
+# Features
+Height slider and icons for age and weight.
+<br>
+Result displayed with various advices according to the BMI
+Color coded Background.
 
 
 
