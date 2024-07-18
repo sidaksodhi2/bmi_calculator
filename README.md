@@ -3,7 +3,8 @@
 # Introduction
 A BMI(Body Mass Index) calculator is a simple and intutive apllication built using dart and flutter.It allows user to input age and weight and their gender and according to the data, calculates BMI and gives various advice based on the BMI.
 # Preview
-![image](https://github.com/user-attachments/assets/2a681e38-632b-4951-b6f9-1c164c4bad72)
+
+<img src="https://github.com/user-attachments/assets/2a681e38-632b-4951-b6f9-1c164c4bad72" height="200">
 
 
 ## Getting Started
